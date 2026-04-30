@@ -13,22 +13,8 @@ One of the main pain point that AT&T users are facing is constant exposure to SP
 AT&T has been able to manually flag spam messages for a time, but they are looking for an automated way of detecting spams to protect their users.
 Goals 🎯
 
-Your goal is to build a spam detector, that can automatically flag spams as they come based solely on the sms' content.
+The  goal is to build a spam detector, that can automatically flag spams as they come based solely on the sms' content.
 Scope of this project 🖼️
-
-To start off, AT&T would like you to use the folowing dataset:
-
-Dowload the Dataset
-Helpers 🦮
-
-To help you achieve this project, here are a few tips that should help you:
-Start simple
-
-A good deep learing model does not necessarily have to be super complicated!
-Transfer learning
-
-You do not have access to a whole lot of data, perhaps channeling the power of a more sophisticated model trained on billions of observations might help!
-Deliverable 📬
 
 To complete this project, your team should:
 
